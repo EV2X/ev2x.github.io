@@ -1,0 +1,535 @@
+<?xml version="1.0" ?>
+<additional>
+    <parkingArea id="evPA_AC7_000" lane="152943#1_2" startPos="47.11" endPos="59.11" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_000" lane="152943#1_2" startPos="47.11" endPos="59.11" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_001" lane="-152701#2_1" startPos="104.44" endPos="116.44" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_001" lane="-152701#2_1" startPos="104.44" endPos="116.44" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_002" lane="-152370#0_1" startPos="17.74" endPos="29.74" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_002" lane="-152370#0_1" startPos="17.74" endPos="29.74" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_003" lane="153391#0_1" startPos="59.31" endPos="71.31" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_003" lane="153391#0_1" startPos="59.31" endPos="71.31" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_004" lane="-153381#2_2" startPos="91.28" endPos="103.28" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_004" lane="-153381#2_2" startPos="91.28" endPos="103.28" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_005" lane="-153339#1_1" startPos="16.37" endPos="28.37" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_005" lane="-153339#1_1" startPos="16.37" endPos="28.37" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_006" lane="-153053_1" startPos="240.45" endPos="252.45" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_006" lane="-153053_1" startPos="240.45" endPos="252.45" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_007" lane="-152804_1" startPos="21.46" endPos="33.46" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_007" lane="-152804_1" startPos="21.46" endPos="33.46" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_008" lane="153383#4_1" startPos="51.81" endPos="63.81" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_008" lane="153383#4_1" startPos="51.81" endPos="63.81" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_009" lane="-152671_1" startPos="18.66" endPos="30.66" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_009" lane="-152671_1" startPos="18.66" endPos="30.66" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_010" lane="153046_1" startPos="224.32" endPos="236.32" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_010" lane="153046_1" startPos="224.32" endPos="236.32" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_011" lane="153389#0_1" startPos="126.33" endPos="138.33" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_011" lane="153389#0_1" startPos="126.33" endPos="138.33" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_012" lane="152701#4_1" startPos="33.36" endPos="45.36" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_012" lane="152701#4_1" startPos="33.36" endPos="45.36" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC7_013" lane="-152626#1_1" startPos="124.46" endPos="136.46" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC7"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC7_013" lane="-152626#1_1" startPos="124.46" endPos="136.46" power="7400" efficiency="0.95" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_7k4_type2"/>
+        <param key="cs.short_name" value="AC7"/>
+        <param key="cs.display_name" value="AC 7.4 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_NORMAL"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="7.4"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_014" lane="152820_2" startPos="89.16" endPos="101.16" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_014" lane="152820_2" startPos="89.16" endPos="101.16" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_015" lane="152364_1" startPos="12.65" endPos="24.65" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_015" lane="152364_1" startPos="12.65" endPos="24.65" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_016" lane="-152401_1" startPos="56.3" endPos="68.3" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_016" lane="-152401_1" startPos="56.3" endPos="68.3" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_017" lane="-152393_1" startPos="27.66" endPos="39.66" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_017" lane="-152393_1" startPos="27.66" endPos="39.66" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_018" lane="-152648#2_1" startPos="18.97" endPos="30.97" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_018" lane="-152648#2_1" startPos="18.97" endPos="30.97" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_019" lane="-153037_1" startPos="141.2" endPos="153.2" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_019" lane="-153037_1" startPos="141.2" endPos="153.2" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_020" lane="-153323#4_1" startPos="178.9" endPos="190.9" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_020" lane="-153323#4_1" startPos="178.9" endPos="190.9" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_021" lane="152591#5_1" startPos="21.28" endPos="33.28" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_021" lane="152591#5_1" startPos="21.28" endPos="33.28" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_022" lane="152842_1" startPos="86.99" endPos="98.99" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_022" lane="152842_1" startPos="86.99" endPos="98.99" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_AC22_023" lane="-152374#1_1" startPos="17.79" endPos="29.79" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="AC22"/>
+    </parkingArea>
+    <chargingStation id="evCS_AC22_023" lane="-152374#1_1" startPos="17.79" endPos="29.79" power="22000" efficiency="0.93" friendlyPos="true">
+        <param key="cs.profile_id" value="ac_22_type2"/>
+        <param key="cs.short_name" value="AC22"/>
+        <param key="cs.display_name" value="AC 22 kW Type 2"/>
+        <param key="cs.charger_class" value="AC"/>
+        <param key="cs.charging_level" value="AC_FAST"/>
+        <param key="cs.connector_type" value="Type2"/>
+        <param key="cs.current_type" value="AC"/>
+        <param key="cs.nominal_power_kw" value="22.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_DC50_024" lane="152750#5_1" startPos="47.41" endPos="59.41" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="DC50"/>
+    </parkingArea>
+    <chargingStation id="evCS_DC50_024" lane="152750#5_1" startPos="47.41" endPos="59.41" power="50000" efficiency="0.92" friendlyPos="true">
+        <param key="cs.profile_id" value="dc_50_ccs2"/>
+        <param key="cs.short_name" value="DC50"/>
+        <param key="cs.display_name" value="DC 50 kW CCS2"/>
+        <param key="cs.charger_class" value="DC50"/>
+        <param key="cs.charging_level" value="DC_FAST"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="50.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_DC50_025" lane="-152972#2_1" startPos="13.44" endPos="25.44" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="DC50"/>
+    </parkingArea>
+    <chargingStation id="evCS_DC50_025" lane="-152972#2_1" startPos="13.44" endPos="25.44" power="50000" efficiency="0.92" friendlyPos="true">
+        <param key="cs.profile_id" value="dc_50_ccs2"/>
+        <param key="cs.short_name" value="DC50"/>
+        <param key="cs.display_name" value="DC 50 kW CCS2"/>
+        <param key="cs.charger_class" value="DC50"/>
+        <param key="cs.charging_level" value="DC_FAST"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="50.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_DC50_026" lane="153365#1_1" startPos="45.64" endPos="57.64" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="DC50"/>
+    </parkingArea>
+    <chargingStation id="evCS_DC50_026" lane="153365#1_1" startPos="45.64" endPos="57.64" power="50000" efficiency="0.92" friendlyPos="true">
+        <param key="cs.profile_id" value="dc_50_ccs2"/>
+        <param key="cs.short_name" value="DC50"/>
+        <param key="cs.display_name" value="DC 50 kW CCS2"/>
+        <param key="cs.charger_class" value="DC50"/>
+        <param key="cs.charging_level" value="DC_FAST"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="50.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_DC50_027" lane="152971#3_1" startPos="13.69" endPos="25.69" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="DC50"/>
+    </parkingArea>
+    <chargingStation id="evCS_DC50_027" lane="152971#3_1" startPos="13.69" endPos="25.69" power="50000" efficiency="0.92" friendlyPos="true">
+        <param key="cs.profile_id" value="dc_50_ccs2"/>
+        <param key="cs.short_name" value="DC50"/>
+        <param key="cs.display_name" value="DC 50 kW CCS2"/>
+        <param key="cs.charger_class" value="DC50"/>
+        <param key="cs.charging_level" value="DC_FAST"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="50.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_DC50_028" lane="153339#1_1" startPos="19.51" endPos="31.51" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="DC50"/>
+    </parkingArea>
+    <chargingStation id="evCS_DC50_028" lane="153339#1_1" startPos="19.51" endPos="31.51" power="50000" efficiency="0.92" friendlyPos="true">
+        <param key="cs.profile_id" value="dc_50_ccs2"/>
+        <param key="cs.short_name" value="DC50"/>
+        <param key="cs.display_name" value="DC 50 kW CCS2"/>
+        <param key="cs.charger_class" value="DC50"/>
+        <param key="cs.charging_level" value="DC_FAST"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="50.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_DC50_029" lane="152701#3_2" startPos="6.12" endPos="18.12" roadsideCapacity="2" friendlyPos="true">
+        <param key="cs.short_name" value="DC50"/>
+    </parkingArea>
+    <chargingStation id="evCS_DC50_029" lane="152701#3_2" startPos="6.12" endPos="18.12" power="50000" efficiency="0.92" friendlyPos="true">
+        <param key="cs.profile_id" value="dc_50_ccs2"/>
+        <param key="cs.short_name" value="DC50"/>
+        <param key="cs.display_name" value="DC 50 kW CCS2"/>
+        <param key="cs.charger_class" value="DC50"/>
+        <param key="cs.charging_level" value="DC_FAST"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="50.0"/>
+        <param key="cs.parking_capacity" value="2"/>
+    </chargingStation>
+    <parkingArea id="evPA_HPC150_030" lane="152352#1_1" startPos="10.4" endPos="22.4" roadsideCapacity="4" friendlyPos="true">
+        <param key="cs.short_name" value="HPC150"/>
+    </parkingArea>
+    <chargingStation id="evCS_HPC150_030" lane="152352#1_1" startPos="10.4" endPos="22.4" power="150000" efficiency="0.94" friendlyPos="true">
+        <param key="cs.profile_id" value="hpc_150_ccs2"/>
+        <param key="cs.short_name" value="HPC150"/>
+        <param key="cs.display_name" value="HPC 150 kW CCS2"/>
+        <param key="cs.charger_class" value="DC150+"/>
+        <param key="cs.charging_level" value="DC_HPC"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="150.0"/>
+        <param key="cs.parking_capacity" value="4"/>
+    </chargingStation>
+    <parkingArea id="evPA_HPC150_031" lane="-153043#0_1" startPos="22.98" endPos="34.98" roadsideCapacity="4" friendlyPos="true">
+        <param key="cs.short_name" value="HPC150"/>
+    </parkingArea>
+    <chargingStation id="evCS_HPC150_031" lane="-153043#0_1" startPos="22.98" endPos="34.98" power="150000" efficiency="0.94" friendlyPos="true">
+        <param key="cs.profile_id" value="hpc_150_ccs2"/>
+        <param key="cs.short_name" value="HPC150"/>
+        <param key="cs.display_name" value="HPC 150 kW CCS2"/>
+        <param key="cs.charger_class" value="DC150+"/>
+        <param key="cs.charging_level" value="DC_HPC"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="150.0"/>
+        <param key="cs.parking_capacity" value="4"/>
+    </chargingStation>
+    <parkingArea id="evPA_HPC150_032" lane="152464_1" startPos="67.69" endPos="79.69" roadsideCapacity="4" friendlyPos="true">
+        <param key="cs.short_name" value="HPC150"/>
+    </parkingArea>
+    <chargingStation id="evCS_HPC150_032" lane="152464_1" startPos="67.69" endPos="79.69" power="150000" efficiency="0.94" friendlyPos="true">
+        <param key="cs.profile_id" value="hpc_150_ccs2"/>
+        <param key="cs.short_name" value="HPC150"/>
+        <param key="cs.display_name" value="HPC 150 kW CCS2"/>
+        <param key="cs.charger_class" value="DC150+"/>
+        <param key="cs.charging_level" value="DC_HPC"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="150.0"/>
+        <param key="cs.parking_capacity" value="4"/>
+    </chargingStation>
+    <parkingArea id="evPA_HPC150_033" lane="152818#2_1" startPos="31.02" endPos="43.02" roadsideCapacity="4" friendlyPos="true">
+        <param key="cs.short_name" value="HPC150"/>
+    </parkingArea>
+    <chargingStation id="evCS_HPC150_033" lane="152818#2_1" startPos="31.02" endPos="43.02" power="150000" efficiency="0.94" friendlyPos="true">
+        <param key="cs.profile_id" value="hpc_150_ccs2"/>
+        <param key="cs.short_name" value="HPC150"/>
+        <param key="cs.display_name" value="HPC 150 kW CCS2"/>
+        <param key="cs.charger_class" value="DC150+"/>
+        <param key="cs.charging_level" value="DC_HPC"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="150.0"/>
+        <param key="cs.parking_capacity" value="4"/>
+    </chargingStation>
+    <parkingArea id="evPA_HPC150_034" lane="-153383#1_2" startPos="26.81" endPos="38.81" roadsideCapacity="4" friendlyPos="true">
+        <param key="cs.short_name" value="HPC150"/>
+    </parkingArea>
+    <chargingStation id="evCS_HPC150_034" lane="-153383#1_2" startPos="26.81" endPos="38.81" power="150000" efficiency="0.94" friendlyPos="true">
+        <param key="cs.profile_id" value="hpc_150_ccs2"/>
+        <param key="cs.short_name" value="HPC150"/>
+        <param key="cs.display_name" value="HPC 150 kW CCS2"/>
+        <param key="cs.charger_class" value="DC150+"/>
+        <param key="cs.charging_level" value="DC_HPC"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="150.0"/>
+        <param key="cs.parking_capacity" value="4"/>
+    </chargingStation>
+    <parkingArea id="evPA_HPC350_035" lane="153480#3_1" startPos="29.2" endPos="41.2" roadsideCapacity="4" friendlyPos="true">
+        <param key="cs.short_name" value="HPC350"/>
+    </parkingArea>
+    <chargingStation id="evCS_HPC350_035" lane="153480#3_1" startPos="29.2" endPos="41.2" power="350000" efficiency="0.94" friendlyPos="true">
+        <param key="cs.profile_id" value="hpc_350_ccs2"/>
+        <param key="cs.short_name" value="HPC350"/>
+        <param key="cs.display_name" value="HPC 350 kW CCS2"/>
+        <param key="cs.charger_class" value="DC350+"/>
+        <param key="cs.charging_level" value="DC_ULTRA_HPC"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="350.0"/>
+        <param key="cs.parking_capacity" value="4"/>
+    </chargingStation>
+    <parkingArea id="evPA_HPC350_036" lane="-152218_1" startPos="6.85" endPos="18.85" roadsideCapacity="4" friendlyPos="true">
+        <param key="cs.short_name" value="HPC350"/>
+    </parkingArea>
+    <chargingStation id="evCS_HPC350_036" lane="-152218_1" startPos="6.85" endPos="18.85" power="350000" efficiency="0.94" friendlyPos="true">
+        <param key="cs.profile_id" value="hpc_350_ccs2"/>
+        <param key="cs.short_name" value="HPC350"/>
+        <param key="cs.display_name" value="HPC 350 kW CCS2"/>
+        <param key="cs.charger_class" value="DC350+"/>
+        <param key="cs.charging_level" value="DC_ULTRA_HPC"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="350.0"/>
+        <param key="cs.parking_capacity" value="4"/>
+    </chargingStation>
+    <parkingArea id="evPA_HPC350_037" lane="153420#4_2" startPos="230.83" endPos="242.83" roadsideCapacity="4" friendlyPos="true">
+        <param key="cs.short_name" value="HPC350"/>
+    </parkingArea>
+    <chargingStation id="evCS_HPC350_037" lane="153420#4_2" startPos="230.83" endPos="242.83" power="350000" efficiency="0.94" friendlyPos="true">
+        <param key="cs.profile_id" value="hpc_350_ccs2"/>
+        <param key="cs.short_name" value="HPC350"/>
+        <param key="cs.display_name" value="HPC 350 kW CCS2"/>
+        <param key="cs.charger_class" value="DC350+"/>
+        <param key="cs.charging_level" value="DC_ULTRA_HPC"/>
+        <param key="cs.connector_type" value="CCS2"/>
+        <param key="cs.current_type" value="DC"/>
+        <param key="cs.nominal_power_kw" value="350.0"/>
+        <param key="cs.parking_capacity" value="4"/>
+    </chargingStation>
+</additional>
